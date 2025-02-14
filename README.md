@@ -53,8 +53,5 @@ I have experience in multiple programming languages and technologies due to my s
 
 ###
 
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yety14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph" />
-</div>
+### 📈 GitHub Contributions Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yety14&theme=github-dark)
